@@ -1,5 +1,5 @@
-IoT Climate Monitoring Station
-Overview
+# IoT Climate Monitoring Station
+## Overview
 This project is an IoT device developed to monitor indoor climate parameters (temperature, humidity, pressure, and CO₂ levels) and provide wireless charging (10W). The device saves data locally on a microSD card, sends it to the ThingSpeak server for visualization, and provides visual feedback through RGB LEDs and an OLED display.
 The project was developed as part of a university assignment at TalTech in 2025 by Juri Goldman, Artur Grigorjan, and Andrei Litvinenko.
 Features
